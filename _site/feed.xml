@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Type on Strap</title>
-        <atom:link href="/Type-on-Strap/feed.xml" rel="self" type="application/rss+xml"/>
-        <link>https://augkorea.github.io/Type-on-Strap/</link>
+        <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+        <link>https://augkorea.github.io//</link>
         <description></description>
-        <pubDate>Thu, 09 Aug 2018 21:27:29 +0900</pubDate>
+        <pubDate>Thu, 09 Aug 2018 21:29:40 +0900</pubDate>
         
         <item>
             <title>Sample post</title>
-            <link>/Type-on-Strap/2014/11/30/sample-post.html</link>
-            <guid isPermaLink="true">/Type-on-Strap/2014/11/30/sample-post.html</guid>
+            <link>/2014/11/30/sample-post.html</link>
+            <guid isPermaLink="true">/2014/11/30/sample-post.html</guid>
             <description>&lt;p&gt;Consectetur adipiscing elit. Donec a diam lectus. Sed sit amet ipsum mauris. Maecenas congue ligula ac quam viverra nec consectetur ante hendrerit. Donec et mollis dolor. 
 Praesent et diam eget libero egestas mattis sit amet vitae augue. Nam tincidunt congue enim, ut porta lorem lacinia consectetur. 
 &lt;!--more--&gt;
@@ -41,8 +41,8 @@ Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit 
         
         <item>
             <title>Feature images</title>
-            <link>/Type-on-Strap/2014/11/29/feature-images.html</link>
-            <guid isPermaLink="true">/Type-on-Strap/2014/11/29/feature-images.html</guid>
+            <link>/2014/11/29/feature-images.html</link>
+            <guid isPermaLink="true">/2014/11/29/feature-images.html</guid>
             <description>&lt;p&gt;This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.&lt;/p&gt;
 
 </description>
@@ -51,8 +51,8 @@ Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit 
         
         <item>
             <title>Markdown and HTML</title>
-            <link>/Type-on-Strap/2014/11/28/markdown-and-html.html</link>
-            <guid isPermaLink="true">/Type-on-Strap/2014/11/28/markdown-and-html.html</guid>
+            <link>/2014/11/28/markdown-and-html.html</link>
+            <guid isPermaLink="true">/2014/11/28/markdown-and-html.html</guid>
             <description>&lt;p&gt;Jekyll supports the use of &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt; with inline HTML tags which makes it easier to quickly write posts with Jekyll, without having to worry too much about text formatting. A sample of the formatting follows.&lt;/p&gt;
 
 &lt;p&gt;Tables have also been extended from Markdown:&lt;/p&gt;
@@ -78,7 +78,7 @@ Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit 
 
 &lt;p&gt;Here’s an example of an image, which is included using Markdown:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/Type-on-Strap/assets/img/pexels/book-glass.jpeg&quot; alt=&quot;Image of a glass on a book&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;//assets/img/pexels/book-glass.jpeg&quot; alt=&quot;Image of a glass on a book&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Highlighting for code in Jekyll is done using Base16 or Rouge. This theme makes use of Rouge by default.&lt;/p&gt;
 
@@ -105,8 +105,8 @@ Donec ut libero sed arcu vehicula ultricies a non tortor. Lorem ipsum dolor sit 
         
         <item>
             <title>Markup: Syntax Highlighting</title>
-            <link>/Type-on-Strap/2014/08/08/Markup-Syntax-Highlighting.html</link>
-            <guid isPermaLink="true">/Type-on-Strap/2014/08/08/Markup-Syntax-Highlighting.html</guid>
+            <link>/2014/08/08/Markup-Syntax-Highlighting.html</link>
+            <guid isPermaLink="true">/2014/08/08/Markup-Syntax-Highlighting.html</guid>
             <description>&lt;p&gt;From Michael’s Rose &lt;a href=&quot;https://mmistakes.github.io/minimal-mistakes/markup-syntax-highlighting&quot;&gt;Minimal Mistakes&lt;/a&gt;.
 Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. &lt;a href=&quot;http://en.wikipedia.org/wiki/Syntax_highlighting&quot;&gt;Highlighting&lt;/a&gt; does not affect the meaning of the text itself; it is intended only for human readers.&lt;/p&gt;
 
@@ -198,8 +198,8 @@ Syntax highlighting is a feature that displays source code, in different colors 
         
         <item>
             <title>Generate a table of content</title>
-            <link>/Type-on-Strap/2013/12/12/Generate-a-table-of-content.html</link>
-            <guid isPermaLink="true">/Type-on-Strap/2013/12/12/Generate-a-table-of-content.html</guid>
+            <link>/2013/12/12/Generate-a-table-of-content.html</link>
+            <guid isPermaLink="true">/2013/12/12/Generate-a-table-of-content.html</guid>
             <description>&lt;p&gt;Test article, get the source on &lt;a href=&quot;https://github.com/Sylhare/Type-on-Strap/blob/gh-pages/_posts/2013-12-12-toc.js-for-table-of-content.md&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h1 id=&quot;using-kramdown-gfm&quot;&gt;Using Kramdown GFM&lt;/h1&gt;
@@ -246,7 +246,7 @@ Syntax highlighting is a feature that displays source code, in different colors 
 
 &lt;p&gt;If you want to customize the theme it is up to you, you can add the &lt;code class=&quot;highlighter-rouge&quot;&gt;toc.js&lt;/code&gt; file into the &lt;code class=&quot;highlighter-rouge&quot;&gt;asset &amp;gt; js&lt;/code&gt; and add it into the &lt;code class=&quot;highlighter-rouge&quot;&gt;page.html&lt;/code&gt; layout with:&lt;/p&gt;
 
-&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;/Type-on-Strap/assets/js/toc.js&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;//assets/js/toc.js&quot;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;Then you can use it as it is said on the repository.&lt;/p&gt;
 
@@ -397,8 +397,8 @@ $(document).ready(function() {
         
         <item>
             <title>Blogging with title</title>
-            <link>/Type-on-Strap/2013/11/18/blogging-with-title.html</link>
-            <guid isPermaLink="true">/Type-on-Strap/2013/11/18/blogging-with-title.html</guid>
+            <link>/2013/11/18/blogging-with-title.html</link>
+            <guid isPermaLink="true">/2013/11/18/blogging-with-title.html</guid>
             <description>&lt;h1 id=&quot;i-am-a-big-title&quot;&gt;I am a BIG title&lt;/h1&gt;
 
 &lt;p&gt;This is a very tiny tiny post with less than 250 letters.&lt;/p&gt;
