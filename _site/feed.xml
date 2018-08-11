@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Type on Strap</title>
+        <title>Atlassian User Group</title>
         <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-        <link>http://localhost:4000/</link>
+        <link>https://augkorea.github.io/</link>
         <description></description>
-        <pubDate>Sat, 11 Aug 2018 18:57:58 +0900</pubDate>
+        <pubDate>Sat, 11 Aug 2018 19:22:58 +0900</pubDate>
         
         <item>
             <title>Sample post</title>
